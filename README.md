@@ -33,7 +33,7 @@
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/zvartzaft/afterglow-frontend">🎨 Afterglow Frontend</a></h3>
-      <p>Angular member experience with responsive app flows, English and Swedish localization, profiles, diaries, photos, and conversations.</p>
+      <p>Angular member experience with English and Swedish localization, profiles, diaries, photos, and conversations.</p>
       <p>
         <img src="https://img.shields.io/badge/Angular-22-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular 22" />
         <img src="https://img.shields.io/badge/TypeScript-6-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript 6" />
