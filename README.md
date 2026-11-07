@@ -44,15 +44,6 @@
   </tr>
 </table>
 
-<p align="center">
-  <a href="https://github.com/zvartzaft/afterglow-backend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zvartzaft&repo=afterglow-backend&theme=tokyonight&hide_border=true" alt="Afterglow backend repository card" />
-  </a>
-  <a href="https://github.com/zvartzaft/afterglow-frontend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zvartzaft&repo=afterglow-frontend&theme=tokyonight&hide_border=true" alt="Afterglow frontend repository card" />
-  </a>
-</p>
-
 ## 🏗️ One platform, two applications
 
 ```mermaid
@@ -88,15 +79,10 @@ flowchart LR
   </ul>
 </details>
 
-## 📊 GitHub at a glance
+## 🔥 Contribution streak
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=zvartzaft&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub statistics for zvartzaft" />
   <img height="165" src="https://streak-stats.demolab.com?user=zvartzaft&theme=tokyonight&hide_border=true" alt="GitHub contribution streak for zvartzaft" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zvartzaft&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph for zvartzaft" width="95%" />
 </p>
 
 <p align="center">
